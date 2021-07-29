@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+	<scene id="intro">
+		<type>NORMAL</type>
+		<next>wybor1</next>
+	</scene>
+	<scene id="wybor1">
+		<type>CHOICE</type>
+		<choice1photo>wybor1d1</choice1photo>
+		<choice1text>Powąchaj kwiatka</choice1text>
+		<choice1>sciezka1</choice1>
+		
+		<choice2photo>wybor1d1</choice2photo>
+		<choice2text>Idź przywitać się z braćmi</choice2text>
+		<choice2>sciezka2</choice2>
+	</scene>
+	<scene id="sciezka1">
+		<type>ENDING</type>
+		<ending>FLOWER</ending>
+		<endtitle>KWIECISTE ZAKOŃCZENIE</endtitle>
+		<enddesc>Powąchałaś kwiatka przez co spowodowałaś, że Peamat nie musiał praktycznie edytować niczego w tym klipie</enddesc>
+	</scene>
+	<scene id="sciezka2">
+		<type>ENDING</type>
+		<ending>BRO</ending>
+		<endtitle>BRATERSKIE ZAKOŃCZENIE</endtitle>
+		<enddesc>Powiedziałaś 'cześć' swoim braciom. Chwila...tego nie było w oryginale. Czy to oznacza, że Peamat musiał się napracować, żeby zrobić tą scenę?</enddesc>
+	</scene>
+</script>

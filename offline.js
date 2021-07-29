@@ -1,0 +1,30 @@
+﻿{
+	"version": 1627555231,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/choice1-sheet0.png",
+		"images/choice2-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/timebg-sheet0.png",
+		"images/timer-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/videobg-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"intro.webm",
+		"sciezka1.webm",
+		"wybor1.webm",
+		"sciezka2.webm",
+		"script.xml"
+	]
+}
